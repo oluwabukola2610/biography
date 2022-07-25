@@ -1,0 +1,62 @@
+
+
+.head{
+    width: 100%;
+     border: 1px solid darkgrey;
+     background-color: darkgrey;
+     text-align: center;
+}
+.asd{
+    background-color:darkgray;
+    width: 20%;
+    height: 150%;
+}
+.body{
+    height: 800px;
+    display: flex;
+
+}
+.body2{
+    width: 80%;
+    height: 150%;
+    background-image: url('./image/nancy\ 3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.body3{
+    height: 200px;
+    width: 200px;
+    margin-top: 45px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-image: url('./image/image1.jpg');
+    background-size: cover;
+    float: left;
+}
+p{
+    color: wheat;
+    text-align: justify;
+    font-size: xx-large;
+}
+footer{
+width: 100%; 
+font-style: italic;
+text-align: center;
+background-color: bisque;}
+
+
+.asd h1{text-align: center;}
+
+.aside{
+    color: black;
+    font-size: medium;
+}
+.imageb{
+width: 90%;
+height: 25%;
+margin-left: auto;
+margin-right: auto;
+background-image: url('./image/isi.jpg')}
+
